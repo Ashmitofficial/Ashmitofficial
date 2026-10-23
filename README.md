@@ -69,7 +69,7 @@ My corner of the internet for showcasing projects, experimenting with web design
 I'm always open to interesting ideas, collaborations, internship opportunities, and open-source contributions.
 
 - 💻 **GitHub:** [@Ashmitofficial](https://github.com/Ashmitofficial)
-- 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- 💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/ashmit-kumar-singh-793a5a223)
 
 ---
 
